@@ -1,4 +1,4 @@
-# Azure AKS: how to bill your internal cluster tenants when a tenant doesn't require a separate cluster
+# AKS: how to bill your internal cluster tenants when a tenant doesn't require a separate cluster
 
 When it comes to paying a bill, you probably always want to know who consumed what. It is easy in Azure to tag all resources a department use and to get a vision on expenditure. But when it comes to an AKS cluster, which is shared, it might be an issue.
 
